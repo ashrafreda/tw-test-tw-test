@@ -4,11 +4,11 @@
         "en": "tw-test-tw-test"
     },
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     },
     "author_email": "ashraf@salla.sa",
-    "support_url": "",
+    "support_url": "https://portal.salla.partners/",
     "repository": "https://github.com/ashrafreda/tw-test-tw-test",
     "components": []
 }
